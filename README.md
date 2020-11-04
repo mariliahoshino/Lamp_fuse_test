@@ -10,23 +10,31 @@ https://goo.gl/maps/HqmLaRdamGRQYHgA8
 This a simple schematich<br>
 <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/picture/esquema.png?raw=true" widht="400" >
 
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20181119_223818.jpg?raw=true" widht="200" >
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20181227_134211.jpg?raw=true" widht="200" > <br>
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20181227_192757.jpg?raw=true" widht="200" >
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20181228_223035.jpg?raw=true" widht="200" > <br>
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20190107_235758.jpg?raw=true" widht="200" >
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20190107_235815.jpg?raw=true" widht="200" > <br>
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_132324.jpg?raw=true" widht="200" >
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_165940.jpg?raw=true" widht="200" > <br>
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_170358.jpg?raw=true" widht="400" >
+
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_172436.jpg?raw=true" widht="400" >
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br>
 ### My Degree
 
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
