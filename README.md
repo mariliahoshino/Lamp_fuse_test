@@ -5,7 +5,9 @@ This project for use in a store motorcycle parts for tests lamps and fuses befor
 instagran link the projetc in use <br>
 
 It's in use in this store in Google Maps
-https://goo.gl/maps/HqmLaRdamGRQYHgA8
+https://goo.gl/maps/HqmLaRdamGRQYHgA8 <br>
+## Delta Moto Peças Ltda
+
 
 This a simple schematich<br>
 <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/picture/esquema.png?raw=true" widht="400" >
