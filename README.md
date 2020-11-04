@@ -45,3 +45,23 @@ This a simple schematich<br>
 <a href="https://mariliahoshino.wixsite.com/cvitae/"> Personal page <img src ="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_site.png?raw=true" height="20" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="20" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="20" widht="400"></a>
+
+
+
+###Components: <br>
+Voltmeter Ammeter
+https://pt.aliexpress.com/item/32904078572.html?spm=a2g0s.9042311.0.0.2742b90aCONmm3
+
+CC CV XL4015
+https://pt.aliexpress.com/wholesale?catId=0&initiative_id=SB_20201104073210&SearchText=XL4015+CC+CV
+
+18650 batteries
+
+3S level battery
+https://pt.aliexpress.com/wholesale?catId=0&initiative_id=SB_20201104073352&SearchText=3S+bms+battery+level
+
+3S 40A BMS
+https://pt.aliexpress.com/wholesale?catId=0&initiative_id=SB_20201104073240&SearchText=3S+BMS
+
+Box Patola  CASE MP-0010
+http://www.patola.com.br/index.php?route=product/product&path=59_77&product_id=632
