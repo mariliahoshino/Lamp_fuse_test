@@ -20,7 +20,7 @@ This a simple schematich<br>
 
 <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_132324.jpg?raw=true" height="250" widht="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_165940.jpg?raw=true" height="250" widht="400" > <br>
 
-<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_170358.jpg?raw=true" widht="400" >
+<!-- <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_170358.jpg?raw=true" widht="400" > -->
 
 <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_172436.jpg?raw=true" widht="400" >
 
