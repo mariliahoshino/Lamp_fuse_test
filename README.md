@@ -17,9 +17,9 @@ This a simple schematich<br>
 
 <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20181227_192757.jpg?raw=true" height="300" widht="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20181228_223035.jpg?raw=true" height="300" widht="400" > <br>
 
-<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20190107_235758.jpg?raw=true" height="250" widht="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20190107_235815.jpg?raw=true" height="250" widht="400" > <br>
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20190107_235758.jpg?raw=true" height="220" widht="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20190107_235815.jpg?raw=true" height="220" widht="400" > <br>
 
-<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_132324.jpg?raw=true" height="250" widht="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_165940.jpg?raw=true" height="250" widht="400" > <br>
+<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_132324.jpg?raw=true" height="220" widht="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_165940.jpg?raw=true" height="220" widht="400" > <br>
 
 <!-- <img src="https://github.com/mariliahoshino/Lamp_fuse_test/blob/main/photos/20200201_170358.jpg?raw=true" widht="400" > -->
 
