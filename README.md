@@ -3,8 +3,9 @@ DIY a test lamp and fuse
 
 This project for use in a store motorcycle parts for tests lamps and fuses before sales <br>
 instagran link the projetc in use <br>
+https://www.instagram.com/p/CHOZD7UJhqo/ <br>
 
-It's in use in this store in Google Maps
+It's in use in this store in Google Maps <br>
 https://goo.gl/maps/HqmLaRdamGRQYHgA8 <br>
 ## Delta Moto Peças Ltda
 
