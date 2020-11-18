@@ -7,6 +7,7 @@ https://www.instagram.com/p/CHOZD7UJhqo/ <br>
 
 It's in use in this store in Google Maps <br>
 https://goo.gl/maps/HqmLaRdamGRQYHgA8 <br>
+https://g.page/delta-moto-sp?gm <br>
 ## Delta Moto Peças Ltda
 
 
